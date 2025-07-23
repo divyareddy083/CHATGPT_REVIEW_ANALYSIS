@@ -47,7 +47,7 @@ The dataset includes:
 ### 5. Visualization
 - Plotted sentiment distribution using **Seaborn** and **Plotly**
 - Displayed temporal sentiment trends and review volume changes
-- Word cloud or bar charts for frequent phrases
+- Bar charts for frequent phrases
 
 ### 6. Net Promoter Score (NPS)
 - Estimated using star ratings:
